@@ -1,6 +1,6 @@
 # Collab19
 
-Collab19 is an international relief effort for COVid-19. This project tackles the challenges of transparent fund management and global coordination by leveraging DAO technology built on Ethereum.
+Collab19 is an international relief effort for COVid-19. This project tackles the challenges of transparent fund management and global coordination by leveraging DAO technology built on Ethereum. This repo was created for the Longhash virtual hackathon.
 
 ## Website and Vision
 Collab19 Deck: https://docs.google.com/presentation/d/1nvhnnw9biIn_7A53MqDEPZp_paaBqzYWF0nRgmHWAhA/edit?usp=sharing
